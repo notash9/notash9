@@ -18,4 +18,5 @@ Python | JavaScript | HTML | CSS | Git | GitHub
 - Strong fundamentals
 
 📫 Reach me:
-Instagram: @inash009
+Instagram: @unash9.io
+Email: aashishsingh09a@gmail.com
