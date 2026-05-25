@@ -3,7 +3,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aashish+(Ash);Builder+%7C+AI+%C2%B7+Web+%C2%B7+Automation;BTech+CSE+%40+Rungta;Experiment+%3E+Perfection)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aashish+Raj(Ash);Builder+%7C+AI+%C2%B7+Web+%C2%B7+Automation;BTech+CSE+%40+Rungta;Experiment+%3E+Perfection)](https://git.io/typing-svg)
 
 </div>
 
@@ -80,5 +80,5 @@
 
 ### Connect
 
-[![Instagram](https://img.shields.io/badge/@unash9.io-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/unash9.io)
+[![Instagram](https://img.shields.io/badge/@aash1sh9.io-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/unash9.io)
 [![Email](https://img.shields.io/badge/aashishsingh09a@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:aashishsingh09a@gmail.com)
