@@ -36,8 +36,7 @@
 
 <div align="center">
 
-username=notash9&show_icons=true&theme=transparent&hide_border=true&title_color=6e6e6e&text_color=6e6e6e&icon_color=6e6e6e" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notash9&layout=compact&theme=transparent&hide_border=true&title_color=6e6e6e&text_color=6e6e6e" height="160" />
+
 
 </div>
 
