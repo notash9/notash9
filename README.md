@@ -72,7 +72,7 @@
 
 | Project | Description |
 |---|---|
-| **SyndCate** | — coming soon — |
+| **SyndiCate** | — coming soon — |
 | ··· | more soon |
 
 ---
